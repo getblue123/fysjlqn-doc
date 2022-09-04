@@ -13,10 +13,10 @@ export default defineUserConfig({
         text: '主页',
         link: '/',
       },
-      //{
-      //  text: '关于',
-      //  children: ['/about/me.html', '/about/server.html'],
-      //},
+      {
+        text: '关于',
+        link: '/about/',
+      },
       {
         text: '贴吧',
         link: 'https://tieba.baidu.com/f?kw=%E5%B7%A6%E7%89%88%E9%A3%8E%E4%BA%91%E4%B8%96%E7%BA%AA%E4%B8%A4%E5%8D%83%E5%B9%B4',
