@@ -14,6 +14,10 @@ export default defineUserConfig({
         link: '/',
       },
       {
+        text: '文档',
+        children: ['/contents/common', '/contents/decisions', '/contents/events', '/contents/history', '/contents/missions']
+      },
+      {
         text: '关于',
         link: '/about/',
       },

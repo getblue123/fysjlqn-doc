@@ -5,7 +5,7 @@ title: "开始"
 description: "主页"
 actions:
   - text: 文档
-    link: /docs/
+    link: /contents/
     type: primary
   - text: 关于我
     link: /about/
