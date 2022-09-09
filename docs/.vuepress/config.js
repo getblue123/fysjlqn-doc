@@ -18,6 +18,10 @@ export default defineUserConfig({
         children: ['/contents/common', '/contents/decisions', '/contents/events', '/contents/history', '/contents/missions']
       },
       {
+        text: '更新日志',
+        link: 'update/',
+      },
+      {
         text: '关于',
         children: ['/about/c.md','/about/'],
       },
