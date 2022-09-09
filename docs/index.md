@@ -8,9 +8,14 @@ actions:
     link: /contents/
     type: primary
   - text: 关于我
+    link: /about/c.md
+    type: secondary
+  - text: 关于本站
     link: /about/
     type: secondary
 features:
   - title: 等待建设
     details: ......
+  - title: 关于本站
+    details: 非官方的文档站，欢迎爱好者前来贡献！
 ---

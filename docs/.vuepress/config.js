@@ -19,7 +19,7 @@ export default defineUserConfig({
       },
       {
         text: '关于',
-        link: '/about/',
+        children: ['/about/c.md','/about/'],
       },
       {
         text: '贴吧',
