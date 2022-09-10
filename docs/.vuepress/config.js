@@ -42,7 +42,15 @@ export default defineUserConfig({
   
   plugins:
     [docsearchPlugin({
-      // 配置项
+      apiKey: '0487d7858b35674657999dee369620b0',
+      indexName: 'prod_search',
+      appId: '20N99BK25Z',
+      placeholder: '搜索文档',
+      translations: {
+        button: {
+          buttonText: '搜索文档',
+        },
+      },
     }),
   ],
   
