@@ -26,6 +26,10 @@ export default defineUserConfig({
         link: '/update',
       },
       {
+        text: '贡献指南',
+        link: '/misc/contribution.md',
+      },
+      {
         text: '关于',
         children: ['/about/c.md','/about/'],
       },
@@ -42,6 +46,8 @@ export default defineUserConfig({
     repo: 'Cccc-owo/fysjlqn-doc',
     editLinkText: '在 GitHub 上编辑此页',
     backToHome: '你好像走丢了，点我回到主页',
+    lastUpdatedText: '最近更新',
+    contributorsText: '贡献者',
   }),
   
   plugins:
