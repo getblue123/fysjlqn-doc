@@ -27,11 +27,11 @@ footer: 'CC BY-NC-SA | Copyright © 2022-present Cccc_ & Contributors'
 示例
 
 ```txt
-    标题：两千年文档编辑
-    正文：
-编辑页面：https://2000ydoc.iscccc.eu.org/update/
+标题：两千年文档编辑
+正文：
+    编辑页面：https://2000ydoc.iscccc.eu.org/update/
 ---
-在添加新版的更新日志，具体如下：
-9.xx.x
-- 更新了...
+    在添加新版的更新日志，具体如下：
+    9.xx.x
+    - 更新了...
 ```
