@@ -8,6 +8,10 @@ export default defineUserConfig({
   description: '左版·风云世纪两千年 文档',
   
   theme: defaultTheme({
+    docsRepo: 'https://github.com/Cccc-owo/fysjlqn-doc',
+    docsBranch: 'main',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
     navbar: [
       {
         text: '主页',
