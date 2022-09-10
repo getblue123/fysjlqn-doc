@@ -19,7 +19,7 @@ export default defineUserConfig({
       },
       {
         text: '更新日志',
-        link: 'update/',
+        link: '/update',
       },
       {
         text: '关于',
