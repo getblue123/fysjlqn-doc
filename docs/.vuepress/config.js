@@ -18,6 +18,10 @@ export default defineUserConfig({
         link: '/',
       },
       {
+        text: '下载',
+        link: '/download'
+      },
+      {
         text: '文档',
         children: ['/contents/common', '/contents/decisions', '/contents/events', '/contents/history', '/contents/missions']
       },

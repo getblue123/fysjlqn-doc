@@ -3,17 +3,20 @@ home: true
 title: "开始"
 description: "主页"
 actions:
+  - text: 下载
+    link: /download
+    type: primary
   - text: 文档
-    link: /contents/
+    link: /contents
     type: primary
   - text: 更新日志
-    link: /update/
+    link: /update
     type: primary
   - text: 贡献指南
     link: /misc/contribution.md
     type: secondary
   - text: 关于本站
-    link: /about/
+    link: /about
     type: secondary
   - text: 关于我
     link: /about/c.md
