@@ -1,7 +1,7 @@
 ---
 title: "贡献指南"
 description: "贡献指南"
-footer: [CC|BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.zh) | Copyright © 2022-present Cccc_ & Contributors
+footer: 'CC BY-NC-SA | Copyright © 2022-present Cccc_ & Contributors'
 ---
 
 如果你想要为本站贡献，可以参考以下指南。

@@ -23,5 +23,5 @@ features:
     details: ......
   - title: 关于本站
     details: 非官方的文档站，欢迎爱好者前来贡献！
-footer: [CC|BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.zh) | Copyright © 2022-present Cccc_ & Contributors
+footer: 'CC BY-NC-SA | Copyright © 2022-present Cccc_ & Contributors'
 ---
