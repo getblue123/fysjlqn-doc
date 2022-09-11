@@ -1,6 +1,6 @@
 ---
 home: true
-title: "开始"
+title: "主页"
 description: "主页"
 actions:
   - text: 下载

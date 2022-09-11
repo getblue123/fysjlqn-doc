@@ -6,6 +6,10 @@ description: "主页"
 
 # 文档目录
 
+## 机制说明
+
+[跳转](mechanism/)
+
 ## 通用设定
 
 [跳转](common/)

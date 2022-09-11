@@ -16,6 +16,7 @@ export default navbar([
     icon: 'creative',
     prefix: '/contents/',
     children: [
+      { text: '机制说明', link: 'mechanism' },
       { text: '通用设定文档', link: 'common' },
       { text: '决议文档', link: 'decisions' },
       { text: '事件文档', link: 'events' },
@@ -45,7 +46,7 @@ export default navbar([
   },
   {
     text: '站长博客',
-    icon: 'icon-profile',
+    icon: 'profile',
     link: 'https://blog.iscccc.eu.org'
   }
 ])

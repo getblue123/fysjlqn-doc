@@ -26,7 +26,7 @@ export default hopeTheme({
   navbar: navbar,
 
   // sidebar
-  sidebar: "heading",
+  sidebar: sidebar,
 
   footer: "Powered by Vuepress",
 
