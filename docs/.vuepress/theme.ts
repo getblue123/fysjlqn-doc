@@ -29,6 +29,7 @@ export default hopeTheme({
   sidebar: sidebar,
 
   footer: "左版·风云世纪两千年 民间文档站 | 欢迎各位为本站发展做贡献",
+  copyright: false,
 
   displayFooter: true,
 
