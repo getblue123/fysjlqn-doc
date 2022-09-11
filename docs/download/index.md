@@ -22,3 +22,7 @@ description: "左版 风云世纪两千年 下载"
 学习版资源群：[904328059](https://jq.qq.com/?k=PFzQmdHW)
 
 民间联机&资源群：[646761953](https://jq.qq.com/?k=LzSEFmSq)
+
+## 安装
+
+[PDF](/documents/风云世纪两千年_9.0_安裝方式_20210127.pdf)
