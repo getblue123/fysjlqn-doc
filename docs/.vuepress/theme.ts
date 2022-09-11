@@ -28,7 +28,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "Powered by Vuepress",
+  footer: "左版·风云世纪两千年 民间文档站 | 欢迎各位为本站发展做贡献",
 
   displayFooter: true,
 
