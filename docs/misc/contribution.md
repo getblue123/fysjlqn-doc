@@ -8,7 +8,7 @@ footer: 'CC BY-NC-SA | Copyright © 2022-present Cccc_ & Contributors'
 
 贡献者的名字将会显示在页尾。
 
-除转载内容及另有说明外，本站默认使用 [CC|BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.zh) 协议。
+除转载内容及另有说明外，本站默认使用 [CC|BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
 
 ## #1
 
