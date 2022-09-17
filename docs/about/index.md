@@ -39,3 +39,7 @@ description: "关于本站"
 
 - 补充 9.0.0~9.13 的更新日志（位于页面最下方，点击小箭头展开）
 - 更新许可协议为 [CC|BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+### 2022.09.17
+
+- 增加评论区
