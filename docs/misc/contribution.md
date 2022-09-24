@@ -16,4 +16,4 @@ footer: 'CC BY-NC-SA | Copyright © 2022-present Cccc_ & Contributors'
 
 ## #2
 
-如果你没听说过 ```Markdown``` 或 ```Git``` ，你可以直接发邮件到 <iscccc@duck.com> 说明你的想法。
+如果你没听说过 ```Markdown``` 或 ```Git``` ，你可以直接发邮件到 <iscccc@duck.com> 说明你的想法，或者直接在下方评论区留言。
