@@ -1,5 +1,5 @@
 ---
-title: '下载'
+title: '下载&安装'
 description: "左版 风云世纪两千年 下载"
 ---
 
