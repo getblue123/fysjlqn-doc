@@ -30,9 +30,12 @@ export default navbar([
     link: '/update'
   },
   {
-    text: '贡献指南',
-    icon: 'community',
-    link: '/misc/contribution.md'
+    text: '杂项',
+    icon: 'info',
+    children: [
+      { text: '贡献指南', icon: 'community', link: '/misc/contribution.md'},
+      { text: '关于 新地图', icon: 'file', link: '/misc/typus-about.md'},
+    ]
   },
   {
     text: '关于',
