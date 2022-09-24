@@ -26,3 +26,5 @@ description: "左版 风云世纪两千年 下载"
 ## 安装
 
 [PDF](/documents/风云世纪两千年_9.0_安裝方式_20210127.pdf)
+
+[来自为民请命群的教程](install-guide.md)

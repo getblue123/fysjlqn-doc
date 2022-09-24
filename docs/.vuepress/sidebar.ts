@@ -7,7 +7,7 @@ export default sidebar([
       link: '/'
     },
     {
-      text: '下载',
+      text: '下载&安装',
       icon: 'install',
       link: '/download'
     },
