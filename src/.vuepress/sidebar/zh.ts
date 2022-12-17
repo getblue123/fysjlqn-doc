@@ -1,6 +1,7 @@
-import { navbar } from "vuepress-theme-hope";
+import { sidebar } from "vuepress-theme-hope";
 
-export default navbar([
+//export const zhSidebar = sidebar({
+export const Sidebar = sidebar([
   {
     text: '主页',
     icon: 'home',
@@ -12,17 +13,17 @@ export default navbar([
     link: '/download'
   },
   {
-    text: '文档',
-    icon: 'creative',
-    prefix: '/contents/',
-    children: [
-      { text: '机制说明', link: 'mechanism' },
-      { text: '通用设定文档', link: 'common' },
-      { text: '决议文档', link: 'decisions' },
-      { text: '事件文档', link: 'events' },
-      { text: '历史文件文档', link: 'history' },
-      { text: '任务文档', link: 'missions' }
-    ]
+      text: '文档',
+      icon: 'creative',
+      prefix: '/contents/',
+      children: [
+        { text: '机制说明', link: 'mechanism', prefix: '/contents/mechanism/', children: [ 'caoyuandiguo.md', 'fenquandu.md', 'gongyehua.md', 'menggudiguo.md', 'rujiao.md', 'shenluo.md', 'wudaishiguo.md', 'yishixingtai.md', 'youmuzhuanzhan.md', 'yuanzhengsunhao.md', 'zhengfu.md' ] },
+        { text: '通用设定文档', link: 'common' },
+        { text: '决议文档', link: 'decisions' },
+        { text: '事件文档', link: 'events' },
+        { text: '历史文件文档', link: 'history' },
+        { text: '任务文档', link: 'missions' }
+      ]
   },
   {
     text: '更新日志',
@@ -51,5 +52,5 @@ export default navbar([
     text: '站长博客',
     icon: 'profile',
     link: 'https://blog.iscccc.eu.org'
-  }
-])
+  },
+]);
