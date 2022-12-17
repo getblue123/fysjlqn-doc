@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "Cccc-owo/fysjlqn-doc",
 
-  docsDir: "docs/",
+  docsDir: "src/",
   docsBranch: "main",
   docsRepo: "Cccc-owo/fysjlqn-doc",
 
