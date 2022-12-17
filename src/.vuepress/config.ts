@@ -8,6 +8,8 @@ export default defineUserConfig({
   
   base: "/",
 
+  head: [['link', { rel: 'icon', href: '/images/icon.png' }]],
+  
   theme,
 
   shouldPrefetch: false,
