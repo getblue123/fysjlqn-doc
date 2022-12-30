@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://2000ydoc.iscccc.eu.org/sitemap.xml
